@@ -20,13 +20,13 @@ Genealogia é um projeto que permite pesquisar o interesse de busca de um sobren
 ## Imagens
 
 ### Página Inicial
-![Página Inicial](images/pagina-inicial.png)
+![Página Inicial](imagens/genealogia-1.png)
 
 ### Resultados da Pesquisa
-![Resultados da Pesquisa](images/resultados-pesquisa.png)
+![Resultados da Pesquisa](imagens/genealogia-2.png)
 
 ### Mapa Interativo
-![Mapa Interativo](images/mapa-interativo.png)
+![Mapa Interativo](imagens/genealogia-3.png)
 
 ## Como usar
 1. Acesse o site [Genealogia](https://seu-site-aqui.com).
