@@ -1,6 +1,5 @@
 # Genealogia: Interesse de busca de sobrenome por regiões do Brasil
 
-![Genealogia](images/genealogia.png)
 
 ## Descrição
 Genealogia é um projeto que permite pesquisar o interesse de busca de um sobrenome ou nome em diferentes regiões do Brasil. O programa utiliza o Google Trends para obter dados sobre a popularidade do termo pesquisado em cada localidade. Os resultados são exibidos em um mapa interativo, mostrando a intensidade do interesse em cada região.
@@ -15,25 +14,30 @@ Genealogia é um projeto que permite pesquisar o interesse de busca de um sobren
 - HTML5 e CSS3 para a estrutura e o estilo da página.
 - JavaScript para a interatividade e manipulação dos dados.
 - Google Trends API para obter os dados de interesse de busca.
-- GitHub Pages para hospedar o site.
 
 ## Imagens
 
 ### Página Inicial
-![Página Inicial](imagens/genealogia-1.png)
+![Página Inicial](imagens/genealogia-0.png)
 
 ### Resultados da Pesquisa
-![Resultados da Pesquisa](imagens/genealogia-2.png)
+![Resultados da Pesquisa](imagens/genealogia-1.png)
 
-### Mapa Interativo
-![Mapa Interativo](imagens/genealogia-3.png)
+### Campos de pesquisa não preenchido
+![Campos de pesquisa não preenchido](imagens/genealogia-2.png)
+
+
+### Dados Indisponíneis
+![Dados Indisponíneis](imagens/genealogia-3.png)
+
+### Nova Pesquisa
+![Nova Pesquisa](imagens/genealogia-4.png)
 
 ## Como usar
-1. Acesse o site [Genealogia](https://seu-site-aqui.com).
-2. Digite o sobrenome ou nome que deseja pesquisar no campo de pesquisa.
-3. Clique no botão "Pesquisar" para ver os resultados.
-4. Os resultados serão exibidos no mapa interativo. As regiões com maior intensidade de interesse serão destacadas com cores mais fortes.
-5. Você também pode clicar no botão "Acessar Google Trends" para obter mais informações sobre os dados apresentados.
+1. Digite o sobrenome ou nome que deseja pesquisar no campo de pesquisa.
+2. Clique no botão "Pesquisar" para ver os resultados.
+3. Os resultados serão exibidos no mapa interativo. As regiões com maior intensidade de interesse serão destacadas com cores mais fortes.
+4. Você também pode clicar no botão "Acessar Google Trends" para obter mais informações sobre os dados apresentados.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você tiver alguma sugestão, correção de bugs ou melhorias, sinta-se à vontade para abrir uma nova issue ou enviar um pull request.
