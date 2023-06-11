@@ -40,8 +40,8 @@ O Python é uma linguagem de programação versátil e poderosa, amplamente util
 ![Campos de pesquisa não preenchido](imagens/genealogia-2.png)
 
 
-### Dados Indisponíneis
-![Dados Indisponíneis](imagens/genealogia-3.png)
+### Dados Indisponíveis
+![Dados Indisponíveis](imagens/genealogia-3.png)
 
 ### Nova Pesquisa
 ![Nova Pesquisa](imagens/genealogia-4.png)
